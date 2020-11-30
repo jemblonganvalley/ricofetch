@@ -1,0 +1,28 @@
+{
+  "home": {
+    "hero": {
+      "title": "Belajar Fetching data dari server",
+      "image_path": "https://picsum.photos/seed/150/600"
+    },
+    "slider": [
+      {
+        "id": 1,
+        "title": "belajar satu",
+        "body": "ini adalah cara belajar fetchin data dari server",
+        "image_path": "https://picsum.photos/seed/3/300"
+      },
+      {
+        "id": 2,
+        "title": "belajar dua",
+        "body": "ini adalah cara belajar fetchin data dari server dua",
+        "image_path": "https://picsum.photos/seed/13/300"
+      },
+      {
+        "id": 3,
+        "title": "belajar tiga",
+        "body": "ini adalah cara belajar fetchin data dari server tiga",
+        "image_path": "https://picsum.photos/seed/25/300"
+      }
+    ]
+  }
+}
