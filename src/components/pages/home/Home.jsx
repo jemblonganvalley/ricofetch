@@ -1,7 +1,7 @@
 const Home = () => {
   return (
     <section className="home">
-      <h1>hello</h1>
+      <h1>Fetching data dari server</h1>
     </section>
   );
 };
